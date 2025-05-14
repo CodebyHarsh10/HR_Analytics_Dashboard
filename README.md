@@ -25,8 +25,29 @@ The HR Analytics Dashboard helps the HR team understand employee data clearly.It
 - Analysis & Insight Generation : Study the charts to find trends and patterns, such as which job roles have higher attrition, or how distance from home affects employee retention.
 
 ## View Dashboard
-<img width="603" alt="HR_ANALYTICS DASHBOARD Screenshot" src="https://github.com/user-attachments/assets/471cd7a0-9e5d-40d9-8d94-950ab21edd6a" />
+<img width="601" alt="HR_ANALYTICS Dashboard Screenshot 2025-05-14 161358" src="https://github.com/user-attachments/assets/da2c5896-fa92-4827-8f94-598c0da10cf1" />
 
 ## Dashboard Interaction
 
 <a href="https://github.com/CodebyHarsh10/HR_Analytics_Dashboard/blob/main/HR_ANALYTICS%20DASHBOARD.pbix">Dashboard<a/>
+
+## Dashboard Insights
+- High Attrition in Specific Roles : Job roles like Laboratory Technician(62) and Sales Executive(57) show a higher number of employees leaving the company.
+- Younger Employees Leave More : Employees aged between 26 to 35 are more likely to leave than older ones.
+- Overall Attrition Rate : 16.1% (237 out of 1470 employees).
+- Employees earning ≤ ₹5K/month account for ~69% of total attrition.
+- Highest attrition from Life Sciences (38%) and Medical (27%) backgrounds.
+- Job Roles with High Turnover: Sales Executive (57),Sales Representative (33)
+- Male: 140 | Female: 79 — indicating a broader attrition challenge across both genders.
+- Majority of attrition occurs within the first 2 years, highlighting potential onboarding or early engagement issue
+
+## Conclusion
+The HR analytics dashboard reveals that attrition is largely concentrated among young employees in low-paying roles within the R&D and Sales departments. Key contributing factors include
+  - Low starting salary
+  - Early-career stage
+  - Specific job functions with limited growth or high pressure
+
+## Recommendation
+Enhance retention through salary restructuring, mentorship programs, and career path visibility.
+  - Focus on early engagement and employee development, especially within the first 2 years.
+  - Conduct department-specific retention reviews, especially in R&D and Sales.
