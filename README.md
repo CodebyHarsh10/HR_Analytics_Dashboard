@@ -26,3 +26,6 @@ The HR Analytics Dashboard helps the HR team understand employee data clearly.It
 
 ## View Dashboard
 <img width="603" alt="HR_ANALYTICS DASHBOARD Screenshot" src="https://github.com/user-attachments/assets/471cd7a0-9e5d-40d9-8d94-950ab21edd6a" />
+
+## Dashboard Interaction
+
