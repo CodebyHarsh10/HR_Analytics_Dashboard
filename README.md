@@ -29,3 +29,4 @@ The HR Analytics Dashboard helps the HR team understand employee data clearly.It
 
 ## Dashboard Interaction
 
+<a href="https://github.com/CodebyHarsh10/HR_Analytics_Dashboard/blob/main/HR_ANALYTICS%20DASHBOARD.pbix">Dashboard<a/>
